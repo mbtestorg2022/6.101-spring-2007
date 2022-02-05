@@ -21,14 +21,126 @@ The subjects covered by the six labs are presented below:
 
 Laboratory guidelines ([PDF]({{< baseurl >}}/resources/lab_guidelines))
 
-| LAB # | TOPICS | LABS |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} RF transmission and reception; Q and bandwidth of tuned circuits; AM (diode) detection {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lab1)) |
-| 2 |  {{< br >}}{{< br >}} Log amplifier; rectifier diodes and rectifier rower supplies; Zener diodes; bipolar and FET characteristics using the Tektronix curve tracer {{< br >}}{{< br >}} Please also see Kruger, Anton. "[Reverse Recovery Time](http://www.maximintegrated.com/glossary/definitions.mvp/term/Reverse%20Recovery%20Time/gpk/1015)." June 16, 1999. {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/lab2)) {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} DC biasing considerations in bipolar and FET amplifiers; "Wind your own inductor"; how capacitors affect low frequency response; using an FET as an analog switch {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lab3)) |
-| 4 |  {{< br >}}{{< br >}} Operational amplifiers: inverting configuration, output offset, gain, bandwidth, slew rate, saturation; comparing the LM741 & LF356; inverting adder; voltage follower; Schmitt trigger; integrator, differentiator; precision rectifier; adding push-pull output stages {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lab4)) |
-| 5 |  {{< br >}}{{< br >}} Op-amp and discretes power amp with improved push-pull output stages; two-transistor differential amplifier; bipolar and FET current sources; 555 sawtooth generator and VCO {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lab5)) |
-| 6 |  {{< br >}}{{< br >}} Series-pass DC voltage regulator; low-battery indicator; three-input op-amp mixer and gain control stages for Lab #5 power amp {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/lab6)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LAB #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+RF transmission and reception; Q and bandwidth of tuned circuits; AM (diode) detection
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lab1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Log amplifier; rectifier diodes and rectifier rower supplies; Zener diodes; bipolar and FET characteristics using the Tektronix curve tracer
+
+Please also see Kruger, Anton. "[Reverse Recovery Time](http://www.maximintegrated.com/glossary/definitions.mvp/term/Reverse%20Recovery%20Time/gpk/1015)." June 16, 1999.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/lab2))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+DC biasing considerations in bipolar and FET amplifiers; "Wind your own inductor"; how capacitors affect low frequency response; using an FET as an analog switch
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lab3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Operational amplifiers: inverting configuration, output offset, gain, bandwidth, slew rate, saturation; comparing the LM741 & LF356; inverting adder; voltage follower; Schmitt trigger; integrator, differentiator; precision rectifier; adding push-pull output stages
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lab4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Op-amp and discretes power amp with improved push-pull output stages; two-transistor differential amplifier; bipolar and FET current sources; 555 sawtooth generator and VCO
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lab5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Series-pass DC voltage regulator; low-battery indicator; three-input op-amp mixer and gain control stages for Lab #5 power amp
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/lab6))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lab Kits
 --------
