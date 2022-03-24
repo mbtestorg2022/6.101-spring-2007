@@ -14,7 +14,7 @@ IC Manufacturer Web sites
 *   [Freescale Semiconductor](http://www.freescale.com/)
 *   [ON Semiconductor](http://www.onsemi.com/) (formerly Motorola discretes)
 *   [National Semiconductor](http://www.national.com/)
-*   National Semiconductor Power Supply Application Note (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://datasheet.octopart.com/LM555CN-National-Semiconductor-datasheet-5348896.pdf))
+*   National Semiconductor Power Supply Application Note ([PDF](http://datasheet.octopart.com/LM555CN-National-Semiconductor-datasheet-5348896.pdf))
 *   [NXP Semiconductors](http://www.nxp.com/)
 *   [Texas Instruments](https://www.ti.com/)
 
