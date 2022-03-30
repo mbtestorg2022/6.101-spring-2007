@@ -4,6 +4,7 @@ description: Study materials on non-inverting amplifier gain analysis using fini
   open loop gain examples.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/74c9955afb72158fd57a63a7a03fdb86_non_inv_gain.pdf
 file_type: application/pdf
+parent_uid: 57dc5c2f-b72f-7a02-ab9d-7b55504b951f
 resourcetype: Document
 title: non_inv_gain.pdf
 uid: 74c9955a-fb72-158f-d57a-63a7a03fdb86

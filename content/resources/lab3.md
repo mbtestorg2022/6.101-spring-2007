@@ -5,6 +5,7 @@ description: Laboratory assignment on DC biasing considerations in bipolar and F
   and using an FET as an analog switch.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/da60541fcfb03600c243bfb7d46987c8_lab3.pdf
 file_type: application/pdf
+parent_uid: b677fe41-f4f3-9e47-c7cf-eb080dadfcf3
 resourcetype: Document
 title: lab3.pdf
 uid: da60541f-cfb0-3600-c243-bfb7d46987c8

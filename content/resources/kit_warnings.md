@@ -3,6 +3,7 @@ content_type: resource
 description: Guidelines on the safe use of 6.101 laboratory kits.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-101-introductory-analog-electronics-laboratory-spring-2007/d3d01033ac270e0127b338a6fc84f708_kit_warnings.pdf
 file_type: application/pdf
+parent_uid: b677fe41-f4f3-9e47-c7cf-eb080dadfcf3
 resourcetype: Document
 title: kit_warnings.pdf
 uid: d3d01033-ac27-0e01-27b3-38a6fc84f708
